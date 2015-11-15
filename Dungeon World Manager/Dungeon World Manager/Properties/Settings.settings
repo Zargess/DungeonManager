@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Dungeon_World_Manager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="datafile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root\DungeonWorldManager\bin\datafile.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
